@@ -2,7 +2,7 @@
 
 📥 PASSO 1: BAIXAR E EXECUTAR O SCRIPT
 # 1. Baixar o script diretamente do GitHub
-'curl -O https://raw.githubusercontent.com/AlecioLopes/install_wuzapi_clone/refs/heads/main/install_wuzapi.sh'
+"curl -O https://raw.githubusercontent.com/AlecioLopes/install_wuzapi_clone/refs/heads/main/install_wuzapi.sh"
 
 # 2. Tornar o script executável
 chmod +x install_wuzapi.sh
